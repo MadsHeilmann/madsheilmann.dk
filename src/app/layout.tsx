@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
 import type { FC, ReactNode } from "react";
+import { AppRouterCacheProvider } from "@mui/material-nextjs/v13-appRouter";
+import CssBaseline from "@mui/material/CssBaseline";
+import MainContainer from "@/components/MainContainer";
 
 export const metadata: Metadata = {
-  title: "madsheilmann.dk",
+  title: "Mads Heilmann",
   description: "Mads Heilmann's personal website",
 };
 
@@ -14,7 +17,12 @@ export interface Children {
 const RootLayout: FC<Children> = ({ children }: Readonly<Children>) => {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <AppRouterCacheProvider>
+          <CssBaseline />
+          <MainContainer>{children}</MainContainer>
+        </AppRouterCacheProvider>
+      </body>
     </html>
   );
 };
