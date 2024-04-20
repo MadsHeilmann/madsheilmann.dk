@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7c230edc-4849-43d4-bff7-daebe3b86c34" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InformationSegment.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InformationSegment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MouseOverPopover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MouseOverPopover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/logo-alias.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/logo-alias.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/project-info.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/project-info.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/projects.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/projects.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/theme.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +57,9 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;credentialsType com.jetbrains.nodejs.remote.NodeJSCreateRemoteSdkForm&quot;: &quot;Docker Compose&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1-add-workflows&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;6-add-the-main-layout&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/mads/GitHub/Privat/madsheilmann.dk/compose.yaml&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/mads/GitHub/Privat/madsheilmann.dk/public&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
@@ -67,10 +76,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\public" />
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\src\components" />
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\src\app" />
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\src\library" />
+      <recent name="\\wsl.localhost\Ubuntu\home\mads\GitHub\Privat\madsheilmann.dk\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
       </set>
     </attachedChunks>
   </component>
@@ -86,7 +107,20 @@
       <workItem from="1712762462223" duration="706000" />
       <workItem from="1712850307334" duration="30000" />
       <workItem from="1712850349116" duration="1020000" />
-      <workItem from="1712851425843" duration="348000" />
+      <workItem from="1712851425843" duration="1379000" />
+      <workItem from="1713202514769" duration="614000" />
+      <workItem from="1713203146021" duration="2005000" />
+      <workItem from="1713205204251" duration="7629000" />
+      <workItem from="1713263897410" duration="607000" />
+      <workItem from="1713266146611" duration="7189000" />
+      <workItem from="1713288959662" duration="5999000" />
+      <workItem from="1713345997349" duration="4903000" />
+      <workItem from="1713364456301" duration="1105000" />
+      <workItem from="1713612417612" duration="2645000" />
+      <workItem from="1713615107978" duration="3040000" />
+      <workItem from="1713620252979" duration="2022000" />
+      <workItem from="1713622311026" duration="20000" />
+      <workItem from="1713622418832" duration="281000" />
     </task>
     <servers />
   </component>
